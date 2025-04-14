@@ -36,7 +36,5 @@ This project helps us understand and know how to dockerize an application (pytho
 All in one script could be found at [demo_project.sh](./demo_project.sh)
 
 ## Related link
+[Dockerize Python Flask Application.pdf](https://github.com/user-attachments/files/19736531/Dockerize.Python.Flask.Application.pdf)
 
-- https://pypi.org/project/Flask/
-- https://www.docker.com/
-- https://github.com/tungbq/devops-basic/blob/main/topics/docker/README.md
